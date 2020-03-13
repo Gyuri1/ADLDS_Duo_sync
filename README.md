@@ -8,7 +8,7 @@ It requires python version 3.x.
 
 ==
 
-Currently AD LDS Duo sync in limited deployment mode. More information:
-
+Currently AD LDS Duo sync feature is in limited deployment mode. 
+More information:
 https://duo.com/docs/adsync
 "Want to import users and groups from an Active Directory Lightweight Directory Service (AD LDS) instance? Please contact Duo Support to request early access to this feature"
